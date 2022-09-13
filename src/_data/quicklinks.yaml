@@ -1,14 +1,15 @@
----
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
+  - title: Maldives Photographer
+    url: https://www.thundi.com
+    desc: Maldives wedding and Portrait Photographer
+  - title: Wedding and Portraits
+    url: https://a.asad.photo
+    desc: "Wedding, Honeymoon, Proposals and Portraits Portfolio and Personal
+      Projects "
+  - title: Commercial Photography
+    url: https://c.asad.photo
+    desc: "Commercial Photography by Asad Featuring various Luxury Resorts and
+      Tourism Brands from Maldives. "
+  - title: Events
+    url: https://events.asad.photo
     desc: A utility-first CSS framework for rapidly building custom designs.
